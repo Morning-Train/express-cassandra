@@ -1,15 +1,1 @@
-{
-  "presets": [
-    ["env", {
-      "targets": {
-        "node": "4"
-      }
-    }]
-  ],
-  "sourceMaps": "inline",
-  "env": {
-    "test": {
-      "plugins": ["istanbul"]
-    }
-  }
-}
+{}
